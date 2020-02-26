@@ -1,0 +1,4 @@
+- This service is example if Eureka Server
+- Default port for Eureka Server is 8761
+- We can change the server port and update ${eureka.client.serviceUrl.defaultZone} property in eureka client application
+- Applications related to this example are Eureka-Server, Eureka-Client, Feign-Client
